@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**VikMark1/VikMark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Viktoria Markevich and I'm QA Engineer.
 
-Here are some ideas to get you started:
+**Languages and Tools:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img title="Python" src="media/python.png" width="35"/></code>
+<code><img title="Python" src="media/pycharm.jpeg" width="40"/></code>
+<code><img title="Python" src="media/pytest.png" width="35"/></code>
+<code><img title="Python" src="media/Poetry.jpeg" width="40"/></code>
+<code><img title="Python" src="media/selene.png" width="40"/></code>
+<code><img title="Python" src="media/selenoid.png" width="40"/></code>
+<code><img title="Python" src="media/requests.png" width="35"/></code>
+<code><img title="Python" src="media/appium.png" width="40"/></code>
+<code><img title="Python" src="media/browserstack.jpeg" width="40"/></code>
+<code><img title="Python" src="media/github.png" width="40"/></code>
+<code><img title="Python" src="media/allure_report.png" width="40"/></code>
+<code><img title="Python" src="media/allure_testops.jpeg" width="40"/></code>
+<code><img title="Python" src="media/jenkins_logo.jpeg" width="40"/></code>
+<code><img title="Python" src="media/jira_logo.jpeg" width="40"/></code>
+
+## Contact me
+<a href="https://www.linkedin.com/in/maria-matyukha-815859131/"><img width="6%" alt="LinkedIn" title="LinkedIn" src="images/linkedin.png"/></a>
