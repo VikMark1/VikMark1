@@ -19,9 +19,6 @@ My name is Viktoria Markevich and I'm QA Engineer.
 <code><img title="Jenkins" src="media/jenkins_logo.jpeg" width="40"/></code>
 <code><img title="Jira" src="media/jira_logo.jpeg" width="40"/></code>
 
-## Contact me
-<a href="https://www.linkedin.com/in/viktoria-markevich-a86872120/"><img width="6%" alt="LinkedIn" title="LinkedIn" src="media/linkedin.png"/></a>
-
 ## QA.GURU diploma projects
 ***UI autotests Project***
 ------------------------
